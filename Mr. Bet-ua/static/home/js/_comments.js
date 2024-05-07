@@ -5,60 +5,60 @@ const reviews_data = [
     img: "../../media/photos/comments/Samuel_Fry.png",
     name: "Liam Smith",
     comment:
-      "What's better than indulging in candies and winning big? Mr. Beast  is my go-to for the sweetest victories!",
+      "Що може бути краще, ніж насолоджуватися цукерками та вигравати велико? Mr. Beast - це мій вибір для найдорожчих перемог!",
   },
   {
     img: "../../media/photos/comments/comment2.png",
     name: "Olivia Tremblay",
     comment:
-      "Been playing Mr. Beast  for weeks now — it's simply captivating! Consistent wins and loads of free spins. Absolutely adore this slot!",
+      "Граю в Mr. Beast протягом кількох тижнів - це просто захоплююче! Постійні перемоги та безліч безкоштовних обертів. Абсолютно обожнюю цей слот!",
   },
   {
     img: "../../media/photos/comments/comment3.png",
     name: "Noah MacKenzie",
     comment:
-      "This game is a sugar rush of excitement! Mr. Beast 's vibrant colors and non-stop action make it an addictive delight.",
+      "Ця гра - справжній адреналін від солодощів! Яскраві кольори Mr. Beast та неперервна дія роблять її привабливою та захоплюючою.",
   },
   {
     img: "../../media/photos/comments/comment4.png",
     name: "Emma Gagnon",
     comment:
-      "Mr. Beast  is a treat for the eyes and the wallet! Loving the constant thrill of tumbling wins and the free spins galore.",
+      "Mr. Beast - це насолода для очей і гаманця! Обожнюю постійне захоплення від послідовних перемог і безліч безкоштовних cпiнiв.",
   },
   {
     img: "../../media/photos/comments/comment5.png",
     name: "Lucas Leblanc",
     comment:
-      "Can't get enough of the sweet-themed slot! Mr. Beast  is my guilty pleasure with its fantastic graphics and big win potential.",
+      "Не можу насититися слотом на тему солодощів! Mr. Beast - це моя гріховна насолода з фантастичною графікою та великим потенціалом виграшу.",
   },
   {
     img: "../../media/photos/comments/comment6.png",
     name: "Ava Dubois",
     comment:
-      "This game is like a candy store of winnings! Mr. Beast 's free spins never fail to bring in those delicious wins.",
+      "Ця гра - мов солодкий магазин виграшів! Безкоштовні оберти Mr. Beast завжди приносять ці смачні перемоги.",
   },
   {
     img: "../../media/photos/comments/comment7.png",
     name: "Ethan Roy",
-    comment: "Absolutely addicted to Mr. Beast ! The thrill of consecutive wins with the tumble feature is unbeatable.",
+    comment: "Абсолютно залежний від Mr. Beast! Захоплення від послідовних перемог з функцією тамбл неперевершене.",
   },
   {
     img: "../../media/photos/comments/comment8.png",
     name: "Charlotte Lefebvre",
     comment:
-      "Mr. Beast  satisfies my craving for both sweets and wins. It's a fantastic blend of fun and potential big payouts.",
+      "Mr. Beast задовольняє моє прагнення як до солодкого, так і до перемог. Це чудове поєднання розваг і можливих великих виплат.",
   },
   {
     img: "../../media/photos/comments/comment9.png",
     name: "Benjamin Beaulieu",
     comment:
-      "Such a fun game! Mr. Beast 's free spins keep me coming back for more, and the visuals are simply delightful.",
+      "Така весела гра! Безкоштовні оберти у Mr. Beast заставляють мене повертатися сюди знову та знову, а візуальний дизайн просто в захваті.",
   },
   {
     img: "../../media/photos/comments/comment10.png",
     name: "Sophia Caron",
     comment:
-      "Mr. Beast  never disappoints! Love the adrenaline rush when those cascading wins keep rolling in. Highly recommended!",
+      "Mr. Beast ніколи не розчаровує! Я обожнюю адреналіновий сплеск, коли з'являються послідовні перемоги. Щиро рекомендую!",
   },
 ];
 
@@ -119,8 +119,8 @@ function getReview(data) {
           <div class="review__qna">
             <span>Was this review helpful?</span>
             <div class="review__true-false c-black">
-              <a class="btn-true" aria-label="Yes">Yes</a>
-              <a class="btn-false" aria-label="No">No</a>
+              <a class="btn-true" aria-label="Yes">Так</a>
+              <a class="btn-false" aria-label="No">Hi</a>
             </div>
           </div>
         </div>
