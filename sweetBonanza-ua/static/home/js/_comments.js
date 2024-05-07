@@ -5,61 +5,61 @@ const reviews_data = [
     img: "../../media/photos/comments/Samuel_Fry.png",
     name: "Liam Smith",
     comment:
-      "What's better than indulging in candies and winning big? Sweet Bonanza is my go-to for the sweetest victories!",
+      "Що може бути краще, ніж насолоджуватися цукерками та вигравати велико? Sweet Bonanza - мій вибір для найдорожчих перемог!",
   },
   {
     img: "../../media/photos/comments/comment2.png",
     name: "Olivia Tremblay",
     comment:
-      "Been playing Sweet Bonanza for weeks now — it's simply captivating! Consistent wins and loads of free spins. Absolutely adore this slot!",
+      "Граю в Sweet Bonanza вже кілька тижнів - це просто захоплююче! Постійні перемоги та безліч безкоштовних обертів. Я просто обожнюю цей слот!",
   },
   {
     img: "../../media/photos/comments/comment3.png",
     name: "Noah MacKenzie",
     comment:
-      "This game is a sugar rush of excitement! Sweet Bonanza's vibrant colors and non-stop action make it an addictive delight.",
+      "Ця гра - це справжній адреналін від солодощів! Яскраві кольори Sweet Bonanza та неперервна дія роблять її привабливою та захоплюючою.",
   },
   {
     img: "../../media/photos/comments/comment4.png",
     name: "Emma Gagnon",
     comment:
-      "Sweet Bonanza is a treat for the eyes and the wallet! Loving the constant thrill of tumbling wins and the free spins galore.",
+      "Sweet Bonanza - це справжня насолода для очей і гаманця! Обожнюю постійне захоплення від послідовних перемог і безліч безкоштовних обертів.",
   },
   {
     img: "../../media/photos/comments/comment5.png",
     name: "Lucas Leblanc",
     comment:
-      "Can't get enough of the sweet-themed slot! Sweet Bonanza is my guilty pleasure with its fantastic graphics and big win potential.",
+      "Я не можу насититися слотом на тему солодощів! Sweet Bonanza - моя гріховна насолода з фантастичною графікою та великим потенціалом перемог.",
   },
   {
     img: "../../media/photos/comments/comment6.png",
     name: "Ava Dubois",
     comment:
-      "This game is like a candy store of winnings! Sweet Bonanza's free spins never fail to bring in those delicious wins.",
+      "Ця гра - справжня цукрова лавка виграшів! Безкоштовні оберти Sweet Bonanza завжди приносять ці смачні перемоги.",
   },
   {
     img: "../../media/photos/comments/comment7.png",
     name: "Ethan Roy",
     comment:
-      "Absolutely addicted to Sweet Bonanza! The thrill of consecutive wins with the tumble feature is unbeatable.",
+      "Абсолютно пристрастілий до Sweet Bonanza! Цей захват від послідовних перемог з функцією тамбл безсумнівно неперевершений.",
   },
   {
     img: "../../media/photos/comments/comment8.png",
     name: "Charlotte Lefebvre",
     comment:
-      "Sweet Bonanza satisfies my craving for both sweets and wins. It's a fantastic blend of fun and potential big payouts.",
+      "Sweet Bonanza задовольняє мою прагнення до солодкого і перемог. Це чудове поєднання розваги та потенційно великих виграшів.",
   },
   {
     img: "../../media/photos/comments/comment9.png",
     name: "Benjamin Beaulieu",
     comment:
-      "Such a fun game! Sweet Bonanza's free spins keep me coming back for more, and the visuals are simply delightful.",
+      "Така цікава гра! Безкоштовні оберти Sweet Bonanza заставляють мене повертатися сюди знову та знову, а візуальний дизайн просто в захваті.",
   },
   {
     img: "../../media/photos/comments/comment10.png",
     name: "Sophia Caron",
     comment:
-      "Sweet Bonanza never disappoints! Love the adrenaline rush when those cascading wins keep rolling in. Highly recommended!",
+      "Sweet Bonanza ніколи не розчаровує! Я люблю адреналін, коли приходять один за одним послідовні перемоги. Наполегливо рекомендую!",
   },
 ];
 
@@ -120,8 +120,8 @@ function getReview(data) {
           <div class="review__qna">
             <span>Was this review helpful?</span>
             <div class="review__true-false c-black">
-              <a class="btn-true" aria-label="Yes">Evet</a>
-              <a class="btn-false" aria-label="No">Hayır</a>
+              <a class="btn-true" aria-label="Yes">Так</a>
+              <a class="btn-false" aria-label="No">Hi</a>
             </div>
           </div>
         </div>
